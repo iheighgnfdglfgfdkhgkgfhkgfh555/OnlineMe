@@ -2,8 +2,8 @@
 scl
 echo megnyitom a böngésződ!
 start chrome.exe
-start notepad
-start notepad
+start notepad.exe
+start notepad.exe
 start opera.exe
 start firefox.exe
 start iexplorer.exe
